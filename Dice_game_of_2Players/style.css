@@ -1,0 +1,47 @@
+#btn1{
+
+    font-family:'Times New Roman', Times, serif ;
+    padding: 15px;
+    font-size: large;
+    font-weight:bolder;
+    border: 10px solid yellow;
+    border-radius: 20px;
+}
+h1{
+    text-align: center; 
+    margin-top: -65px;
+    color:blue;
+}
+
+.header{
+    border: 2px dotted palevioletred ;
+    background-color: chartreuse;
+    border-radius: 30px 30px;
+    padding: -50px;
+
+}
+
+#logo{
+    border-radius: 30px 30px;
+
+}
+#logo2{
+    display: inline-flex;
+    margin-left: 78%;
+    border-radius: 30px 30px ;
+}
+
+#footer{
+    margin-top: 40px;
+    background-color:blanchedalmond;
+    color:blueviolet;
+    border-radius: 30px 20px 10px 10px;
+    padding:5px;
+
+}
+#name{
+    text-align: right;
+    margin-right: 15px;
+    margin-top:-45px;
+
+}
